@@ -20,7 +20,7 @@
     width: 100%;
     // margin-bottom: 30px;
   }
-  &__caption {
+  &__body {
     padding: 20px;
   }
   &__title {
@@ -29,7 +29,7 @@
     font-size: $font-l;
     padding-bottom: 20px;
   }
-  &__description {
+  &__copy {
     font-weight: $font-light;
     color: $secondaryColor;
     font-size: $font-m;
