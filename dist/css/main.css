@@ -380,7 +380,7 @@ a:hover, a:active, a:focus {
  * Basic typography style for copy text
  */
 body {
-  color: black;
+  color: #1f3251;
   font-family: "Outfit", sans-serif;
   line-height: 1.25;
 }
@@ -479,14 +479,14 @@ body {
 
 .qr-code__title {
   font-weight: 700;
-  color: black;
+  color: #1f3251;
   font-size: 1.25rem;
   padding-bottom: 20px;
 }
 
 .qr-code__copy {
   font-weight: 400;
-  color: #d6e2f0;
+  color: #7b879d;
   font-size: 0.938rem;
   padding-bottom: 20px;
 }
