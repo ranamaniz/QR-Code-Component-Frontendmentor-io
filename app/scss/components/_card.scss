@@ -1,0 +1,38 @@
+// Card component
+
+.qr-code {
+  background-color: $primaryBackgroundColor;
+  text-align: center;
+  padding: 16px;
+  border-radius: 10px;
+  width: 320px;
+
+  // @media screen and (max-width: $media-mobile) {
+  // }
+
+  // @media screen and (min-width: $media-desktop) {
+  // }
+
+  &__image {
+    border-radius: 10px;
+    display: block;
+    height: 100%;
+    width: 100%;
+    // margin-bottom: 30px;
+  }
+  &__caption {
+    padding: 20px;
+  }
+  &__title {
+    font-weight: $font-bold;
+    color: $primaryColor;
+    font-size: $font-l;
+    padding-bottom: 20px;
+  }
+  &__description {
+    font-weight: $font-light;
+    color: $secondaryColor;
+    font-size: $font-m;
+    padding-bottom: 20px;
+  }
+}
