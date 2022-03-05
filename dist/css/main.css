@@ -473,7 +473,7 @@ body {
   width: 100%;
 }
 
-.qr-code__caption {
+.qr-code__body {
   padding: 20px;
 }
 
@@ -484,7 +484,7 @@ body {
   padding-bottom: 20px;
 }
 
-.qr-code__description {
+.qr-code__copy {
   font-weight: 400;
   color: #d6e2f0;
   font-size: 0.938rem;
